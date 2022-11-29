@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "f5dea47bbfa27c82",
+    "type": "split",
+    "children": [
+      {
+        "id": "05cbfff6ec437867",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88e7f42285e69636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SocketIO/HTTP Long-polling.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bbb322c11d646b9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a48062965509d35",
+    "type": "split",
+    "children": [
+      {
+        "id": "9db9dd2dce8053b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c763ef966d4364b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "675d18a3d5eb742f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "deb2f66975d300ee",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3afce6568f69d26d",
+    "type": "split",
+    "children": [
+      {
+        "id": "716fe3e96a509114",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7b47d989c8339ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SocketIO/HTTP Long-polling.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d39a27934795104",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SocketIO/HTTP Long-polling.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6234a2a2ef4ef3d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ef9de04d81f94c87",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SocketIO/HTTP Long-polling.md"
+              }
+            }
+          },
+          {
+            "id": "e39e2f8442ee8140",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b368535b163f6b58",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "88e7f42285e69636",
+  "lastOpenFiles": [
+    "SocketIO/SocketIO.md",
+    "SocketIO/Pasted image 20221130011424.png",
+    "SocketIO/HTTP Long-polling.md",
+    "SocketIO/HTTP Polling.md",
+    "2022-11-26.md"
+  ]
+}
