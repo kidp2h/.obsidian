@@ -1,0 +1,43 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": "LANGUAGE",
+        "icon": "RiTranslate2",
+        "for": "everything"
+      },
+      {
+        "rule": ".*?",
+        "icon": "IbFolder",
+        "for": "folders"
+      },
+      {
+        "rule": ".*?",
+        "icon": "RiFileLine",
+        "for": "files"
+      },
+      {
+        "rule": "IT",
+        "icon": "🖥",
+        "for": "everything"
+      },
+      {
+        "rule": "ASSETS",
+        "icon": "RiImageLine",
+        "for": "everything"
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  }
+}

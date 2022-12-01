@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SocketIO/HTTP Long-polling.md",
+                "file": "IT/Technology/Web/SocketIO.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,14 +21,90 @@
             }
           },
           {
-            "id": "5bbb322c11d646b9",
+            "id": "2f21f5f2a2da00f1",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "301cb6fd3c09375c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Technical/Web/HTTP Long-polling.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66636e969fe15318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Technology/Web/SocketIO.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e41db951133c6d5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Technology/Web/NestJS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70bd9b6b4f08dfd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Technology/Web/NextJS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bffdacf4319dc40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Technology/Web/SocketIO.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff2eb8e639792977",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ASSETS/Pasted image 20221201140854.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -94,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SocketIO/HTTP Long-polling.md",
+                "file": "ASSETS/Pasted image 20221201140854.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SocketIO/HTTP Long-polling.md",
+                "file": "ASSETS/Pasted image 20221201140854.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SocketIO/HTTP Long-polling.md"
+                "file": "ASSETS/Pasted image 20221201140854.png"
               }
             }
           },
@@ -153,6 +229,14 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "1756a775a356baee",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 5
@@ -161,12 +245,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "88e7f42285e69636",
+  "active": "b368535b163f6b58",
   "lastOpenFiles": [
-    "SocketIO/SocketIO.md",
-    "SocketIO/Pasted image 20221130011424.png",
-    "SocketIO/HTTP Long-polling.md",
-    "SocketIO/HTTP Polling.md",
-    "2022-11-26.md"
+    "ASSETS/Pasted image 20221201141107.png",
+    "ASSETS/Pasted image 20221201140854.png",
+    "IT/Technology/Web/NodeJS.md",
+    "IT/Technology/Web/NestJS.md",
+    "IT/Technology/Web/NextJS.md",
+    "IT/Technology/Web/SocketIO.md",
+    "IT/Technology/Web/ReactJS.md",
+    "IT/Technology/Web/Redis.md",
+    "IT/Technical/Web/HTTP Polling.md",
+    "IT/Technical/Web/HTTP Long-polling.md"
   ]
 }
