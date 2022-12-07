@@ -17,8 +17,9 @@
 # Implement
 ## Server
 ### Middleware
+
 ### CORS
-### Clean structure
+### Best structure to implement
 ### Instance
 #### Socket
 #### Server

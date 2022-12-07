@@ -8,103 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88e7f42285e69636",
+            "id": "1f66d0cc0f0ee7a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Technology/Web/SocketIO.md",
+                "file": "TKB/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "2f21f5f2a2da00f1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "301cb6fd3c09375c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Technical/Web/HTTP Long-polling.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66636e969fe15318",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Technology/Web/SocketIO.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e41db951133c6d5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Technology/Web/NestJS.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70bd9b6b4f08dfd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Technology/Web/NextJS.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bffdacf4319dc40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Technology/Web/SocketIO.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff2eb8e639792977",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "ASSETS/Pasted image 20221201140854.png"
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3afce6568f69d26d",
@@ -170,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASSETS/Pasted image 20221201140854.png",
+                "file": "TKB/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASSETS/Pasted image 20221201140854.png",
+                "file": "TKB/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASSETS/Pasted image 20221201140854.png"
+                "file": "TKB/Untitled.md"
               }
             }
           },
@@ -247,15 +164,15 @@
   },
   "active": "b368535b163f6b58",
   "lastOpenFiles": [
-    "ASSETS/Pasted image 20221201141107.png",
+    "IT/Technology/Web/SocketIO.md",
+    "IT/Technology/Web/Redis.md",
+    "IT/Technical/Web/HTTP Long-polling.md",
+    "IT/Technical/Web/HTTP Polling.md",
     "ASSETS/Pasted image 20221201140854.png",
+    "ASSETS/Pasted image 20221201141107.png",
     "IT/Technology/Web/NodeJS.md",
     "IT/Technology/Web/NestJS.md",
     "IT/Technology/Web/NextJS.md",
-    "IT/Technology/Web/SocketIO.md",
-    "IT/Technology/Web/ReactJS.md",
-    "IT/Technology/Web/Redis.md",
-    "IT/Technical/Web/HTTP Polling.md",
-    "IT/Technical/Web/HTTP Long-polling.md"
+    "IT/Technology/Web/ReactJS.md"
   ]
 }
